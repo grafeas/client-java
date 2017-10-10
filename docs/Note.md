@@ -14,6 +14,7 @@ Name | Type | Description | Notes
 **_package** | [**ModelPackage**](ModelPackage.md) | A note describing a package hosted by various package managers. |  [optional]
 **deployable** | [**Deployable**](Deployable.md) | A note describing something that can be deployed. |  [optional]
 **discovery** | [**Discovery**](Discovery.md) | A note describing a project/analysis type. |  [optional]
+**attestationAuthority** | [**AttestationAuthority**](AttestationAuthority.md) | A note describing an attestation role. |  [optional]
 **relatedUrl** | [**List&lt;RelatedUrl&gt;**](RelatedUrl.md) | Urls associated with this note |  [optional]
 **expirationTime** | **String** | Time of expiration for this Note, null if Note currently does not expire. |  [optional]
 **createTime** | **String** | The time this note was created. This field can be used as a filter in list requests. @OutputOnly |  [optional]
@@ -33,6 +34,7 @@ IMAGE_BASIS | &quot;IMAGE_BASIS&quot;
 PACKAGE_MANAGER | &quot;PACKAGE_MANAGER&quot;
 DEPLOYABLE | &quot;DEPLOYABLE&quot;
 DISCOVERY | &quot;DISCOVERY&quot;
+ATTESTATION_AUTHORITY | &quot;ATTESTATION_AUTHORITY&quot;
 
 
 

@@ -33,7 +33,7 @@ Creates a new note.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -82,7 +82,7 @@ Creates a new occurrence.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -129,7 +129,7 @@ Deletes the given note from the system.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -176,7 +176,7 @@ Deletes the given occurrence from the system.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -223,7 +223,7 @@ Returns the requested occurrence
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -270,7 +270,7 @@ Returns the requested occurrence
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -317,7 +317,7 @@ Gets the note that this occurrence is attached to.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -364,7 +364,7 @@ Returns the requested occurrence
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -411,7 +411,7 @@ Lists the names of Occurrences linked to a particular Note.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -464,7 +464,7 @@ Lists all notes for a given project.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -515,7 +515,7 @@ Lists active occurrences for a given project/Digest.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -566,7 +566,7 @@ Lists all operations for a given project.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -617,7 +617,7 @@ Updates an existing note.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -666,7 +666,7 @@ Updates an existing occurrence.
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();
@@ -715,7 +715,7 @@ Updates an existing operation returns an error if operation  does not exist. The
 ```java
 // Import classes:
 //import io.grafeas.ApiException;
-//import io.swagger.client.api.GrafeasApi;
+//import io.grafeas.v1alpha1.GrafeasApi;
 
 
 GrafeasApi apiInstance = new GrafeasApi();

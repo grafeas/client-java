@@ -15,6 +15,7 @@ Name | Type | Description | Notes
 **installation** | [**Installation**](Installation.md) | Describes the installation of a package on the linked resource. |  [optional]
 **deployment** | [**Deployment**](Deployment.md) | Describes the deployment of an artifact on a runtime. |  [optional]
 **discovered** | [**Discovered**](Discovered.md) | Describes the initial scan status for this resource. |  [optional]
+**attestation** | [**Attestation**](Attestation.md) | Describes an attestation of an artifact. |  [optional]
 **remediation** | **String** | A description of actions that can be taken to remedy the note |  [optional]
 **createTime** | **String** | The time this occurrence was created. @OutputOnly |  [optional]
 **updateTime** | **String** | The time this occurrence was last updated. @OutputOnly |  [optional]
