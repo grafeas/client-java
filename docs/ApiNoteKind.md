@@ -1,0 +1,24 @@
+
+# ApiNoteKind
+
+## Enum
+
+
+* `KIND_UNSPECIFIED` (value: `"KIND_UNSPECIFIED"`)
+
+* `PACKAGE_VULNERABILITY` (value: `"PACKAGE_VULNERABILITY"`)
+
+* `BUILD_DETAILS` (value: `"BUILD_DETAILS"`)
+
+* `IMAGE_BASIS` (value: `"IMAGE_BASIS"`)
+
+* `PACKAGE_MANAGER` (value: `"PACKAGE_MANAGER"`)
+
+* `DEPLOYABLE` (value: `"DEPLOYABLE"`)
+
+* `DISCOVERY` (value: `"DISCOVERY"`)
+
+* `ATTESTATION_AUTHORITY` (value: `"ATTESTATION_AUTHORITY"`)
+
+
+
