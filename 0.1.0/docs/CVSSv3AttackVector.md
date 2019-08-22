@@ -1,0 +1,18 @@
+
+# CVSSv3AttackVector
+
+## Enum
+
+
+* `UNSPECIFIED` (value: `"ATTACK_VECTOR_UNSPECIFIED"`)
+
+* `NETWORK` (value: `"ATTACK_VECTOR_NETWORK"`)
+
+* `ADJACENT` (value: `"ATTACK_VECTOR_ADJACENT"`)
+
+* `LOCAL` (value: `"ATTACK_VECTOR_LOCAL"`)
+
+* `PHYSICAL` (value: `"ATTACK_VECTOR_PHYSICAL"`)
+
+
+

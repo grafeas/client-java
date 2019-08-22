@@ -1,0 +1,14 @@
+
+# CVSSv3UserInteraction
+
+## Enum
+
+
+* `UNSPECIFIED` (value: `"USER_INTERACTION_UNSPECIFIED"`)
+
+* `NONE` (value: `"USER_INTERACTION_NONE"`)
+
+* `REQUIRED` (value: `"USER_INTERACTION_REQUIRED"`)
+
+
+

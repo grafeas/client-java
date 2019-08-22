@@ -1,0 +1,20 @@
+
+# DiscoveredAnalysisStatus
+
+## Enum
+
+
+* `ANALYSIS_STATUS_UNSPECIFIED` (value: `"ANALYSIS_STATUS_UNSPECIFIED"`)
+
+* `PENDING` (value: `"PENDING"`)
+
+* `SCANNING` (value: `"SCANNING"`)
+
+* `FINISHED_SUCCESS` (value: `"FINISHED_SUCCESS"`)
+
+* `FINISHED_FAILED` (value: `"FINISHED_FAILED"`)
+
+* `FINISHED_UNSUPPORTED` (value: `"FINISHED_UNSUPPORTED"`)
+
+
+
