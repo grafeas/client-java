@@ -1,0 +1,16 @@
+
+# CVSSv3PrivilegesRequired
+
+## Enum
+
+
+* `UNSPECIFIED` (value: `"PRIVILEGES_REQUIRED_UNSPECIFIED"`)
+
+* `NONE` (value: `"PRIVILEGES_REQUIRED_NONE"`)
+
+* `LOW` (value: `"PRIVILEGES_REQUIRED_LOW"`)
+
+* `HIGH` (value: `"PRIVILEGES_REQUIRED_HIGH"`)
+
+
+
